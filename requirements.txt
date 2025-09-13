@@ -1,0 +1,15 @@
+torch>=1.12.0
+torchvision
+torchaudio
+pytorch-lightning
+torchmetrics
+torch-geometric
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+seaborn
+lime
+optuna
+rdkit-pypi
